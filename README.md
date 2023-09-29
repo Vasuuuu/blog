@@ -1,3 +1,3 @@
 # blog
 Blog project made with HTML, CSS, PHP, and MySql .
-Visit live website : http://vasu.great-site.net/
+Visit live website : https://vasu.great-site.net/
